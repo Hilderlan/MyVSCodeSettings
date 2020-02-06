@@ -1,0 +1,65 @@
+{
+  // Font settings
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontWeight": "400", // Regular
+  "typescript.validate.enable": false,
+
+  // Auto save
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+  "editor.formatOnSave": true,
+  // Theme VSCode
+  "workbench.colorTheme": "Dracula At Night",
+
+  // Configura tamanho e família da fonte
+  "editor.lineHeight": 24,
+
+  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+  "editor.rulers": [ 120 ],
+
+  // Aplica um sinal visual na esquerda da linha selecionada
+  "editor.renderLineHighlight": "gutter",
+
+  // Aumenta a fonte do terminal
+  "terminal.integrated.fontSize": 14,
+  
+  // Define o tema dos ícones na sidebar
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "extensions.ignoreRecommendations": false,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "nunjucks": "html"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "nunjucks": "html"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "editor.parameterHints.enabled": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.sideBar.location": "left",
+  "prettier.semi": false,
+  "terminal.integrated.rendererType": "dom",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "/.classpath": true,
+    "/.project": true,
+    "/.settings": true,
+    "/.factorypath": true
+  },
+  "sync.gist": "670069082f110af75fa1c04cb7a1a183",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  // "java.errors.incompleteClasspath.severity": "ignore",
+  // "python.jediEnabled": false,
+  // "java.configuration.checkProjectSettingsExclusions": false
+}
