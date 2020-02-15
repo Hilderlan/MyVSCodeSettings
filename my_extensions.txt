@@ -1,0 +1,29 @@
+Extensions:
+
+  // Appearance
+- Dracula At Night
+- Material Icon Theme
+
+  // Ruby
+- Rails
+- Ruby
+- Ruby on Rails
+- Ruby Solargraph
+- Simple Ruby ERB
+- VSCode Ruby
+
+  // Flutter
+- Flutter
+- Dart
+
+  // General
+- Better Comments
+- Bracket Pair Colorizer 2
+- Prettier code formatter
+- Beautify
+- Bookmarks
+- JS snipped pack
+- ESLint
+- Pomodoro timer
+- Power mode
+- VSCode hackertyper
