@@ -16,6 +16,10 @@ Extensions:
 - Flutter
 - Dart
 
+	// GIT
+- git lens
+- git flow
+
   // General
 - Better Comments
 - Bracket Pair Colorizer 2
@@ -27,3 +31,23 @@ Extensions:
 - Pomodoro timer
 - Power mode
 - VSCode hackertyper
+- Multiple clipboards -> modificar atalho
+- Settings sync
+- Pubspec assist
+- Flutter_mobx
+- flutter widget snippets
+- flutter widget wrap
+- Error lens
+- Waka time
+- quokka.js
+
+  // Shortcuts
+- ctrl + shift + i -> autoformatacao
+- alt + shift + o -> organizar as importações
+- Bookmarks: ctrl alt k
+
+	// Mudar cor da aba selecionada
+"workbench.colorCustomizations": {
+	"tab.activeBackground": "#038193"
+	"tab.activeForeground": "#fdfdfd"
+}
